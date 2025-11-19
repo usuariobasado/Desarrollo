@@ -1,4 +1,4 @@
-Perfecto, aquí lo tienes corregido con los nombres reales:
+
 
 ---
 
