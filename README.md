@@ -21,9 +21,9 @@ No hay backend propio; el servidor solo entrega los archivos y el cliente los ej
 
 Para organizar el trabajo, creamos **tres branches**:
 
-* `hugo`
-* `JJ`
-* `ivan`
+* `hugo` **(administrador)** ha manejado DesarrolloHTML y la main 
+* `JJ` ha manejado DesarrolloCSS
+* `ivan` ha manejado DesarrolloJS
 
 Cada uno desarrollaba sus partes en su propia rama. Después:
 
@@ -72,6 +72,4 @@ El proyecto nos ayudó a practicar trabajo en equipo con GitHub: uso de branches
 
 El resultado final es una web sencilla, clara y con un proceso de desarrollo completo.
 
----
 
-Si quieres, lo dejo más corto, más formal o más visual.
